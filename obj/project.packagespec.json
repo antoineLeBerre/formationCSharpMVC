@@ -1,17 +1,20 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/jeuDontVousEtesLeHeros.csproj",
+    "projectUniqueName": "/Users/antoineleberre/dvp/C#/formationCSharpMVC/jeuDontVousEtesLeHeros.csproj",
     "projectName": "jeuDontVousEtesLeHeros",
-    "projectPath": "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/jeuDontVousEtesLeHeros.csproj",
-    "outputPath": "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/obj/",
+    "projectPath": "/Users/antoineleberre/dvp/C#/formationCSharpMVC/jeuDontVousEtesLeHeros.csproj",
+    "outputPath": "/Users/antoineleberre/dvp/C#/formationCSharpMVC/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      "/Users/antoineleberre/.dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}

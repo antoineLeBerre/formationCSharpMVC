@@ -1,15 +1,14 @@
 ﻿<Properties StartupConfiguration="{D36EC0B9-5BE4-45BB-9171-70C5FF16336D}|Default">
   <MonoDevelop.Ide.ItemProperties.jeuDontVousEtesLeHeros PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Index.cshtml">
+    <Files>
+      <File FileName="Views/Index.cshtml" Line="6" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="jeuDontVousEtesLeHeros" expanded="True">
-            <Node name="jeuDontVousEtesLeHeros" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Aventure" expanded="True" selected="True" />
-              </Node>
-            </Node>
+            <Node name="jeuDontVousEtesLeHeros" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/jeuDontVousEtesLeHeros.csproj": {}
+    "/Users/antoineleberre/dvp/C#/formationCSharpMVC/jeuDontVousEtesLeHeros.csproj": {}
   },
   "projects": {
-    "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/jeuDontVousEtesLeHeros.csproj": {
+    "/Users/antoineleberre/dvp/C#/formationCSharpMVC/jeuDontVousEtesLeHeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/jeuDontVousEtesLeHeros.csproj",
+        "projectUniqueName": "/Users/antoineleberre/dvp/C#/formationCSharpMVC/jeuDontVousEtesLeHeros.csproj",
         "projectName": "jeuDontVousEtesLeHeros",
-        "projectPath": "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/jeuDontVousEtesLeHeros.csproj",
-        "packagesPath": "/Users/aleberre/.nuget/packages/",
-        "outputPath": "/Users/aleberre/dvp/c#/jeuDontVousEtesLeHeros/obj/",
+        "projectPath": "/Users/antoineleberre/dvp/C#/formationCSharpMVC/jeuDontVousEtesLeHeros.csproj",
+        "packagesPath": "/Users/antoineleberre/.nuget/packages/",
+        "outputPath": "/Users/antoineleberre/dvp/C#/formationCSharpMVC/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/aleberre/.config/NuGet/NuGet.Config"
+          "/Users/antoineleberre/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
